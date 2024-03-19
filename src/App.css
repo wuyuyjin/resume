@@ -1,9 +1,10 @@
 .App {
     width: 210mm; /* A4 width */
     height: 297mm; /* A4 height */
-    background-image: url("https://tailwindcss.com/_next/static/media/hero@75.b2469a49.jpg");
+    /*background-image: url("https://tailwindcss.com/_next/static/media/hero@75.b2469a49.jpg");*/
+    background: linear-gradient(#f9fbfc, #e3f8ff);
     background-size: 200rem;
-    background-repeat: no-repeat;
+    /*background-repeat: no-repeat;*/
     padding: 8px;
     font-family: Arial, sans-serif;
 }
