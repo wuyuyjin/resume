@@ -8,17 +8,17 @@ const ProjectExperience = () => {
 
       <div className="flex flex-row  mt-4 justify-between">
         <div className="flex flex-row font-bold text-lg">
-          <p>童画（ArtnectHub）</p>
+          <p>同画（ArtnectHub）</p>
           <p className="bg-blue-100 rounded-full text-sm w-20 text-[#68a1d1] text-center"><p className="mt-1">团队项目</p></p>
         </div>
         <div>
-          <p className="text-gray-400 text-sm">2023.9-至今</p>
+          <p className="text-gray-400 text-sm">2023.9-2024.3</p>
         </div>
       </div>
 
       <div className="mt-2">
         <p className="text-[#8fb3c2]">https://github.com/JiangXue-Center/ArtnectHub</p>
-        <p className="text-gray-400 mt-2">“童画（ArtnectHub）”是一款用户通过自然语言去生成图画的app。</p>
+        <p className="text-gray-400 mt-2">“同画（ArtnectHub）”是一款用户通过自然语言去生成图画的app。</p>
         <p className="mt-4">职责描述：</p>
         <p className="mt-2">1. 负责整个项目UI设计。</p>
         <p className="mt-2">2. 使用react native + expo + nativeBase开发客户端。</p>
@@ -33,7 +33,7 @@ const ProjectExperience = () => {
           <p className="bg-blue-100 rounded-full text-sm w-20 text-[#68a1d1] text-center ml-4"><p className="mt-1">团队项目</p></p>
         </div>
         <div>
-          <p className="text-gray-400 text-sm">2024.1-至今</p>
+          <p className="text-gray-400 text-sm">2024.1-2024.3</p>
         </div>
       </div>
 

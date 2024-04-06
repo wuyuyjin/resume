@@ -29,6 +29,13 @@ const App = () => {
         <Footer/>
       </div>
     </div>
+
+    // <div>
+    //   <PDFDownloadLink document={<MyDocument />} fileName="my-document.pdf">
+    //     {({ blob, url, loading, error }) => (loading ? 'Loading ...' : '下载 PDF')}
+    //   </PDFDownloadLink>
+    // </div>
+
   )
 }
 
